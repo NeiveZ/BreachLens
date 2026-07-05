@@ -1,0 +1,9 @@
+# Safe demo file for BreachLens local-scan
+# These values are fake and intentionally harmless.
+
+Security contact: analyst@example.com
+Dev contact: dev.team@example.org
+
+API_KEY = "demo_1234567890abcdef"
+password = "not-a-real-password"
+client_secret = "fakeclientsecretvalue12345"

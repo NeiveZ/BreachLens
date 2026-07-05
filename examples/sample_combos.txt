@@ -1,0 +1,5 @@
+# Safe demo data only
+user@example.com:Password123!
+admin@example.com;Summer2024!
+analyst@example.org|CorrectHorseBatteryStaple
+invalid line without combo
